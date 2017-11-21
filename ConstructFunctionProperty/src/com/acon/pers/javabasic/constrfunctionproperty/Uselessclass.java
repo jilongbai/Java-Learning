@@ -1,5 +1,5 @@
 package com.acon.pers.javabasic.constrfunctionproperty;
-
+//这个文档主要是用来验证类成员在初始化赋值与未赋值的问题
 public class Uselessclass 
 {
 	int a;
